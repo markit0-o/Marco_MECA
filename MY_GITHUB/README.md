@@ -26,6 +26,6 @@ Este proyecto enciende y apaga un LED cada 1 segundo usando una placa Arduino.
 ## Código
 El código principal está en el archivo `.ino`.
 ## Cambio Localmente
-feature/pushbutton
+feature/pushbutton.
 
 
